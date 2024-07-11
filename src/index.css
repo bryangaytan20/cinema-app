@@ -5,9 +5,11 @@
   --gris:#e2e2e2;
 }
 
+
 body {
   margin: 0;
-  font-family: var(--font) ;
+  font-family: var(--font);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
